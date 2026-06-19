@@ -49,17 +49,11 @@
 
 ## 🚀 Featured Projects
 
-### 🦷 DentoCheck Pro
-Smart saliva-free oral diagnostic device using ESP32 imaging.
-
 ### 🐟 Aquaculture Toxicity Analysis
 Detection of chemical residues and toxicity prediction using Python.
 
 ### 🍎 Food Freshness Monitoring System
 Gas sensing based freshness detection using MQ sensors and Arduino.
-
-### 🔐 Cybersecurity Projects
-Network security, ethical hacking and cyber law projects.
 
 ---
 
@@ -78,8 +72,6 @@ Network security, ethical hacking and cyber law projects.
 🏅 9.2 SGPI in Biomedical Engineering
 
 🏅 Healthcare Technology Projects
-
-🏅 Cybersecurity Training
 
 🏅 AI & Data Science Learning Journey
 
